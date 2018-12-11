@@ -1,2 +1,2 @@
 # Heroes-Of-Pymoli
-Pandas Homework
+Pandas
